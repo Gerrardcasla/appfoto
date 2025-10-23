@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Photo Mailer",
+  "description": "A web application that allows users to take photos using their device camera, add descriptions to each photo, and then compose an email with the captured images and notes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
